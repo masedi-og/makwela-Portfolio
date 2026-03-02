@@ -1,0 +1,15 @@
+{
+  "suppliers": {
+    "City Office": {
+      "source": {
+        "pre_edit": "W:\\SUPPLIERS\\SUPPLIER BRANDS\\City Office\\HIGH RES\\PRE EDIT IMAGES\\PRE EDIT - KEEP",
+        "master": "W:\\SUPPLIERS\\SUPPLIER BRANDS\\City Office\\HIGH RES\\MASTERED IMAGES"
+      },
+      "upload": {
+        "child": "W:\\SUPPLIERS\\SUPPLIER BRANDS\\City Office\\LOW RES\\UPLOAD\\CHILD",
+        "parent": "W:\\SUPPLIERS\\SUPPLIER BRANDS\\City Office\\LOW RES\\UPLOAD\\PARENT",
+        "range": "W:\\SUPPLIERS\\SUPPLIER BRANDS\\City Office\\LOW RES\\UPLOAD\\UPLOAD RANGE"
+      }
+    }
+  }
+}
